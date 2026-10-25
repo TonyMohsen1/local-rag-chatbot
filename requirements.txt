@@ -1,0 +1,6 @@
+streamlit
+chromadb
+ollama
+pypdf
+python-docx
+langchain-text-splitters
